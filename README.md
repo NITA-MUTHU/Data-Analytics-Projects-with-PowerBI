@@ -10,7 +10,7 @@ Explore a range of projects, each with its own interactive dashboard and real-wo
 •	And much more...
 
 # View Project: Ecomm Sales Performance Analysis
-![ecom chart](https://github.com/user-attachments/assets/ecc29c75-5c64-4723-bbdc-d69a3ee13ed3)
+![Ecomm dashboard](https://github.com/user-attachments/assets/c959c930-e337-4c6b-927c-38ba2560b8da)
 
 # What You'll Find
 •	Interactive Dashboards: Dive into visually appealing and actionable insights.
